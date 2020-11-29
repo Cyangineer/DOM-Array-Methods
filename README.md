@@ -1,2 +1,2 @@
 # DOM-Array-Methods
-![](dom-array-methods-screenshot.png)
+![](dom-arrays-methods-screenshot.png)
